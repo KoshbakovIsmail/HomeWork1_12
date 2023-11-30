@@ -24,6 +24,7 @@ public class Author {
     public void setAuthorLastName(String authorLastName) {
         this.authorLastName = authorLastName;
     }
+
     public void setAuthorFirstName(String authorFirstName) {
         this.authorFirstName = authorFirstName;
     }
