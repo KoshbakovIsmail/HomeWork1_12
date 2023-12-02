@@ -37,5 +37,10 @@ public class Author {
 
         this.authorSurName = authorSurName;
     }
+
+    public String toString() {
+
+        return authorLastName + " " + authorFirstName + " " + authorSurName;
+    }
 }
 
