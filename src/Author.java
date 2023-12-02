@@ -9,28 +9,33 @@ public class Author {
     }
 
     public String getAuthorLastName() {
+
         return authorLastName;
     }
 
     public String getAuthorFirstName() {
+
         return authorFirstName;
     }
 
     public String getAuthorSurName() {
+
         return authorSurName;
     }
 
     public void setAuthorLastName(String authorLastName) {
+
         this.authorLastName = authorLastName;
     }
 
     public void setAuthorFirstName(String authorFirstName) {
+
         this.authorFirstName = authorFirstName;
     }
 
     public void setAuthorSurName(String authorSurName) {
+
         this.authorSurName = authorSurName;
     }
-
 }
 
